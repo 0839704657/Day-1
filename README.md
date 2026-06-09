@@ -1,3 +1,3 @@
-print ('Hello world")
-
-
+name = "Slondiswa"
+print('Hello", name)
+'''
