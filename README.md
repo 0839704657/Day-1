@@ -1,4 +1,1 @@
-hello.py
-
-print("Hello, world!")
-``
+git commit -m "My first Python program"
