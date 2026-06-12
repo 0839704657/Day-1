@@ -1,1 +1,1 @@
-git commit -m "My first Python program"
+python is not coming up 
